@@ -1,0 +1,31 @@
+@model List<Mascota>
+
+<h1>Listado de Mascotas</h1>
+
+<table class="table">
+    <tr>
+        <th>Codigo</th>
+        <th>Nombre</th>
+        <th>Foto</th>
+        <th>Raza</th>
+        <th>Operaciones</th>
+    </tr>
+
+    @foreach(var p in Model) {
+        <tr>
+            <td>@p.Id</td>
+            <td>@p.Nombre</td>
+            <td><img src="@p.Foto" width="100"></td>
+            <td>@p.Raza.ToString("C")</td>
+            <td>
+                <a href="~/mascotas/actualizar/@p.Id">Actualizar</a> | 
+                <a href="~/mascotas/borrar/@p.Id">Borrar</a>
+            </td>
+        </tr>
+    }
+    
+
+</table>
+
+
+<a href="~/mascotas/registrar">Registrar mascota</a>

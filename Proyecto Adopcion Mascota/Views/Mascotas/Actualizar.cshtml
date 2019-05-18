@@ -1,0 +1,28 @@
+@model Mascota
+
+<h1>Formulario de actualizacion de Mascotas @Model.Nombre</h1>
+
+<form action="~/mascotas/actualizar" method="post">
+
+<input type="hidden" asp-for="Id">
+
+<div class="form-group">
+    <label>Nombre:</label>
+    <input type="text" class="form-control" asp-for="Nombre" >
+    @Html.ValidationMessageFor(m => m.Nombre, "", new { @class = "text-danger" })
+</div>
+
+<div class="form-group">
+    <label>Foto:</label>
+    <input type="text" class="form-control" asp-for="Foto" >
+</div>
+
+<div class="form-group">
+    <label>Raza:</label>
+    <input type="text" class="form-control" asp-for="Raza" >
+    @Html.ValidationMessageFor(m => m.Raza, "", new { @class = "text-danger" })
+</div>
+
+<button class="btn btn-primary">Actualizar</button>
+
+</form>
