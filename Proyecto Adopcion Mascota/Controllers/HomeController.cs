@@ -4,9 +4,9 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using Proyecto_Adopcion_Mascota.Models;
+using Proyecto.Models;
 
-namespace Proyecto_Adopcion_Mascota.Controllers
+namespace Proyecto.Controllers
 {
     public class HomeController : Controller
     {

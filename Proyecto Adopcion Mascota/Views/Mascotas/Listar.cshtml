@@ -4,10 +4,10 @@
 
 <table class="table">
     <tr>
-        <th>Codigo</th>
+        <th>Código</th>
         <th>Nombre</th>
         <th>Foto</th>
-        <th>Raza</th>
+        <th>Precio</th>
         <th>Operaciones</th>
     </tr>
 
@@ -16,7 +16,7 @@
             <td>@p.Id</td>
             <td>@p.Nombre</td>
             <td><img src="@p.Foto" width="100"></td>
-            <td>@p.Raza.ToString("C")</td>
+            <td>@p.Precio.ToString("C")</td>
             <td>
                 <a href="~/mascotas/actualizar/@p.Id">Actualizar</a> | 
                 <a href="~/mascotas/borrar/@p.Id">Borrar</a>
@@ -28,4 +28,4 @@
 </table>
 
 
-<a href="~/mascotas/registrar">Registrar mascota</a>
+<a href="~/mascotas/registrar">Registrar mascotas</a>

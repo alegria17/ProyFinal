@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 
-namespace Proyecto_Adopcion_Mascota.Models
+namespace Proyecto.Models
 {
     public class AdopcionContext : DbContext
     {

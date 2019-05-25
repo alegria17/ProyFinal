@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace Proyecto_Adopcion_Mascota.Models
+namespace Proyecto.Models
 {
     public class Mascota
     {
@@ -11,6 +11,6 @@ namespace Proyecto_Adopcion_Mascota.Models
         public string Foto { get; set; }
 
         [Required]
-        public string Raza { get; set; }
+        public decimal Precio { get; set; }
     }
 }

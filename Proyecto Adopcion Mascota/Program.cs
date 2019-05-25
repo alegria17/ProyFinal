@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace Proyecto_Adopcion_Mascota
+namespace Proyecto
 {
     public class Program
     {
