@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jhonatan\\Desktop\\Nueva carpeta\\ProyFinal-master\\Proyecto\\Proyecto.csproj": {}
+    "C:\\Users\\Jhonatan\\Desktop\\TESTING\\ProyFinal\\Proyecto\\Proyecto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jhonatan\\Desktop\\Nueva carpeta\\ProyFinal-master\\Proyecto\\Proyecto.csproj": {
+    "C:\\Users\\Jhonatan\\Desktop\\TESTING\\ProyFinal\\Proyecto\\Proyecto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jhonatan\\Desktop\\Nueva carpeta\\ProyFinal-master\\Proyecto\\Proyecto.csproj",
+        "projectUniqueName": "C:\\Users\\Jhonatan\\Desktop\\TESTING\\ProyFinal\\Proyecto\\Proyecto.csproj",
         "projectName": "Proyecto",
-        "projectPath": "C:\\Users\\Jhonatan\\Desktop\\Nueva carpeta\\ProyFinal-master\\Proyecto\\Proyecto.csproj",
+        "projectPath": "C:\\Users\\Jhonatan\\Desktop\\TESTING\\ProyFinal\\Proyecto\\Proyecto.csproj",
         "packagesPath": "C:\\Users\\Jhonatan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jhonatan\\Desktop\\Nueva carpeta\\ProyFinal-master\\Proyecto\\obj\\",
+        "outputPath": "C:\\Users\\Jhonatan\\Desktop\\TESTING\\ProyFinal\\Proyecto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
