@@ -11,6 +11,7 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.AspNetCore.Identity;
 
 namespace Proyecto
 {
@@ -33,6 +34,7 @@ namespace Proyecto
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
 
+            services.AddDefaultIdentity<IdentityUser>().AddEntityFrameworkStores<AdopcionContext>();
             services.AddDbContext<AdopcionContext>(options => options.UseMySql(Configuration.GetConnectionString("Default")));
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }
@@ -55,6 +57,8 @@ namespace Proyecto
             app.UseHttpsRedirection();
             app.UseStaticFiles();
             app.UseCookiePolicy();
+            app.UseAuthentication();
+
 
             app.UseMvc(routes =>
             {
