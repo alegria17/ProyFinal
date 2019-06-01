@@ -1,8 +1,9 @@
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace Proyecto.Models
 {
-    public class AdopcionContext : DbContext
+    public class AdopcionContext : IdentityDbContext
     {
         public DbSet<Mascota> Mascotas { get; set; }
 

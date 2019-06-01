@@ -1,9 +1,11 @@
 using System.Linq;
 using Proyecto.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Proyecto.Controllers
 {
+    [Authorize]
     public class MascotasController : Controller
     {
         private AdopcionContext _context { get; }
