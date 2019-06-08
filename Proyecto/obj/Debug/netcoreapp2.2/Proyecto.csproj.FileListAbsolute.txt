@@ -33,3 +33,38 @@ C:\INSTALADORES\Poyecto\Proyecto\obj\Debug\netcoreapp2.2\Razor\Views\Mascotas\Li
 C:\INSTALADORES\Poyecto\Proyecto\obj\Debug\netcoreapp2.2\Razor\Views\Mascotas\Registrar.g.cshtml.cs
 C:\INSTALADORES\Poyecto\Proyecto\obj\Debug\netcoreapp2.2\Razor\Views\Cuentas\Login.g.cshtml.cs
 C:\INSTALADORES\Poyecto\Proyecto\obj\Debug\netcoreapp2.2\Razor\Views\Cuentas\Register.g.cshtml.cs
+C:\Users\Jhonatan\Desktop\FINAL MODIF\ProyFinal\Proyecto\bin\Debug\netcoreapp2.2\Proyecto.deps.json
+C:\Users\Jhonatan\Desktop\FINAL MODIF\ProyFinal\Proyecto\bin\Debug\netcoreapp2.2\Proyecto.runtimeconfig.json
+C:\Users\Jhonatan\Desktop\FINAL MODIF\ProyFinal\Proyecto\bin\Debug\netcoreapp2.2\Proyecto.runtimeconfig.dev.json
+C:\Users\Jhonatan\Desktop\FINAL MODIF\ProyFinal\Proyecto\bin\Debug\netcoreapp2.2\Proyecto.dll
+C:\Users\Jhonatan\Desktop\FINAL MODIF\ProyFinal\Proyecto\bin\Debug\netcoreapp2.2\Proyecto.pdb
+C:\Users\Jhonatan\Desktop\FINAL MODIF\ProyFinal\Proyecto\bin\Debug\netcoreapp2.2\Proyecto.Views.dll
+C:\Users\Jhonatan\Desktop\FINAL MODIF\ProyFinal\Proyecto\bin\Debug\netcoreapp2.2\Proyecto.Views.pdb
+C:\Users\Jhonatan\Desktop\FINAL MODIF\ProyFinal\Proyecto\obj\Debug\netcoreapp2.2\Proyecto.csprojAssemblyReference.cache
+C:\Users\Jhonatan\Desktop\FINAL MODIF\ProyFinal\Proyecto\obj\Debug\netcoreapp2.2\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\Desktop\FINAL MODIF\ProyFinal\Proyecto\obj\Debug\netcoreapp2.2\Proyecto.RazorAssemblyInfo.cache
+C:\Users\Jhonatan\Desktop\FINAL MODIF\ProyFinal\Proyecto\obj\Debug\netcoreapp2.2\Proyecto.RazorAssemblyInfo.cs
+C:\Users\Jhonatan\Desktop\FINAL MODIF\ProyFinal\Proyecto\obj\Debug\netcoreapp2.2\Proyecto.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\Desktop\FINAL MODIF\ProyFinal\Proyecto\obj\Debug\netcoreapp2.2\Proyecto.AssemblyInfo.cs
+C:\Users\Jhonatan\Desktop\FINAL MODIF\ProyFinal\Proyecto\obj\Debug\netcoreapp2.2\Proyecto.TagHelpers.input.cache
+C:\Users\Jhonatan\Desktop\FINAL MODIF\ProyFinal\Proyecto\obj\Debug\netcoreapp2.2\Proyecto.TagHelpers.output.cache
+C:\Users\Jhonatan\Desktop\FINAL MODIF\ProyFinal\Proyecto\obj\Debug\netcoreapp2.2\Proyecto.RazorCoreGenerate.cache
+C:\Users\Jhonatan\Desktop\FINAL MODIF\ProyFinal\Proyecto\obj\Debug\netcoreapp2.2\Razor\Views\Cuentas\Login.g.cshtml.cs
+C:\Users\Jhonatan\Desktop\FINAL MODIF\ProyFinal\Proyecto\obj\Debug\netcoreapp2.2\Razor\Views\Cuentas\Register.g.cshtml.cs
+C:\Users\Jhonatan\Desktop\FINAL MODIF\ProyFinal\Proyecto\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Jhonatan\Desktop\FINAL MODIF\ProyFinal\Proyecto\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Jhonatan\Desktop\FINAL MODIF\ProyFinal\Proyecto\obj\Debug\netcoreapp2.2\Razor\Views\Mascotas\Actualizar.g.cshtml.cs
+C:\Users\Jhonatan\Desktop\FINAL MODIF\ProyFinal\Proyecto\obj\Debug\netcoreapp2.2\Razor\Views\Mascotas\Listar.g.cshtml.cs
+C:\Users\Jhonatan\Desktop\FINAL MODIF\ProyFinal\Proyecto\obj\Debug\netcoreapp2.2\Razor\Views\Mascotas\Registrar.g.cshtml.cs
+C:\Users\Jhonatan\Desktop\FINAL MODIF\ProyFinal\Proyecto\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Jhonatan\Desktop\FINAL MODIF\ProyFinal\Proyecto\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Jhonatan\Desktop\FINAL MODIF\ProyFinal\Proyecto\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Jhonatan\Desktop\FINAL MODIF\ProyFinal\Proyecto\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Jhonatan\Desktop\FINAL MODIF\ProyFinal\Proyecto\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Jhonatan\Desktop\FINAL MODIF\ProyFinal\Proyecto\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Jhonatan\Desktop\FINAL MODIF\ProyFinal\Proyecto\obj\Debug\netcoreapp2.2\Proyecto.RazorTargetAssemblyInfo.cache
+C:\Users\Jhonatan\Desktop\FINAL MODIF\ProyFinal\Proyecto\obj\Debug\netcoreapp2.2\Proyecto.RazorTargetAssemblyInfo.cs
+C:\Users\Jhonatan\Desktop\FINAL MODIF\ProyFinal\Proyecto\obj\Debug\netcoreapp2.2\Proyecto.Views.pdb
+C:\Users\Jhonatan\Desktop\FINAL MODIF\ProyFinal\Proyecto\obj\Debug\netcoreapp2.2\Proyecto.dll
+C:\Users\Jhonatan\Desktop\FINAL MODIF\ProyFinal\Proyecto\obj\Debug\netcoreapp2.2\Proyecto.pdb
+C:\Users\Jhonatan\Desktop\FINAL MODIF\ProyFinal\Proyecto\obj\Debug\netcoreapp2.2\Proyecto.csproj.CopyComplete

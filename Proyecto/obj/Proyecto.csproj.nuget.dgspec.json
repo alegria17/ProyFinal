@@ -1,28 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\INSTALADORES\\Poyecto\\Proyecto\\Proyecto.csproj": {}
+    "C:\\Users\\Jhonatan\\Desktop\\FINAL MODIF\\ProyFinal\\Proyecto\\Proyecto.csproj": {}
   },
   "projects": {
-    "C:\\INSTALADORES\\Poyecto\\Proyecto\\Proyecto.csproj": {
+    "C:\\Users\\Jhonatan\\Desktop\\FINAL MODIF\\ProyFinal\\Proyecto\\Proyecto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\INSTALADORES\\Poyecto\\Proyecto\\Proyecto.csproj",
+        "projectUniqueName": "C:\\Users\\Jhonatan\\Desktop\\FINAL MODIF\\ProyFinal\\Proyecto\\Proyecto.csproj",
         "projectName": "Proyecto",
-        "projectPath": "C:\\INSTALADORES\\Poyecto\\Proyecto\\Proyecto.csproj",
-        "packagesPath": "C:\\Users\\PC-Alegria\\.nuget\\packages\\",
-        "outputPath": "C:\\INSTALADORES\\Poyecto\\Proyecto\\obj\\",
+        "projectPath": "C:\\Users\\Jhonatan\\Desktop\\FINAL MODIF\\ProyFinal\\Proyecto\\Proyecto.csproj",
+        "packagesPath": "C:\\Users\\Jhonatan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jhonatan\\Desktop\\FINAL MODIF\\ProyFinal\\Proyecto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\PC-Alegria\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Jhonatan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
